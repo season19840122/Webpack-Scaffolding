@@ -1,0 +1,11 @@
+@import 'base.scss';
+
+$nav-color: #FFF;
+
+#nav {
+  $width: 100%;
+  width: $width;
+  height:30px;
+  background: $nav-color;
+  transform: rotate(45deg);
+}

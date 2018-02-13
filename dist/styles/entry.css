@@ -1,0 +1,16 @@
+/*! 以下代码归 Season 版权所有. */
+body {
+  background: red;
+  color: white;
+}
+
+#tupian {
+  background: url(http://localhost/images/e51ef6b4acb95baa239b6e6b8864625c.png);
+  width: 466px;
+  height: 453px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
